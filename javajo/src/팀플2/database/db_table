@@ -1,0 +1,8 @@
+member
+no,id,pwd,money,lastGameDate
+
+gameInfo
+no,mid,win,lose,winRate,rank
+
+grade
+no name minMoney
